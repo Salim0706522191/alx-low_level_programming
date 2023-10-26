@@ -1,10 +1,8 @@
-## Bit Manipulation
-> Each file in this repository holds code that illustrates an essential concept of programming,
-> specific to the C programming language:
-> how to manipulate bits via switiching them on and off, getting them, and printing to/from binary
+# 0x14-bit_manipulation
+> Each file in my repo has code that illustrates an essential concept of programming,
+> how to manipulate bits via switiching them on and off, getting them, and printing to/from binaries
 
-### Description of what each file shows:
-* main_test_files ----- folder holds test files that showcase examples of how to use functions
+# Description of what each file shows:
 * holberton.h ---------- holds files' function prototypes
 * Files that start with:
 0. a function that converts a binary number to an unsigned int
@@ -15,10 +13,8 @@
 5. a function that returns the number of bits you would need to flip to get from one number to another
 6. a function that checks for big endian and little endian
 
-### Environment
+# Environment
 * Language: C
 * OS: Ubuntu 14.04 LTS
 * Compiler: gcc 4.8.4
-* Style guidelines: [Betty style](https://github.com/holbertonschool/Betty/wiki)
-
 ---
